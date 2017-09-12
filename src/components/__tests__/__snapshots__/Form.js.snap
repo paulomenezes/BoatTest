@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginBottom": 20,
+      }
+    }
+  >
+    <TextEdit
+      name="bookingReference"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onDragStart={[Function]}
+      onDrop={[Function]}
+      onFocus={[Function]}
+      placeholder="Booking Reference"
+      style={
+        Object {
+          "marginRight": 5,
+        }
+      }
+      value=""
+    />
+    <TextEdit
+      name="lastName"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onDragStart={[Function]}
+      onDrop={[Function]}
+      onFocus={[Function]}
+      placeholder="Last name"
+      style={
+        Object {
+          "marginLeft": 5,
+        }
+      }
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "height": 40,
+        "marginBottom": 20,
+      }
+    }
+  >
+    <TextEditIcon
+      name="departing"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onDragStart={[Function]}
+      onDrop={[Function]}
+      onFocus={[Function]}
+      placeholder="Departing"
+      value=""
+    />
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderRadius": 4,
+        "opacity": 1,
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 3,
+          "width": 3,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 0,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#000",
+          "borderRadius": 4,
+          "shadowColor": "#FFF",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 2,
+          },
+          "shadowOpacity": 1,
+          "shadowRadius": 0,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#FFF",
+            "fontFamily": "OpenSans-Bold",
+            "margin": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Find booking
+      </Text>
+    </View>
+  </View>
+</View>
+`;

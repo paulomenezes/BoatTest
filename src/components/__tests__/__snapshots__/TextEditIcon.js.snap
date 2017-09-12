@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 4,
+          "borderWidth": 1,
+          "height": 40,
+          "shadowColor": "#E6E6E6",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 2,
+          },
+          "shadowOpacity": 1,
+          "shadowRadius": 0,
+        },
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        },
+        Object {
+          "borderColor": "#CFCFCF",
+        },
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#020202",
+            "fontSize": 20,
+          },
+          Object {
+            "paddingLeft": 10,
+          },
+          Object {
+            "fontFamily": "FontAwesome",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <TextInput
+      onBlur={undefined}
+      onChangeText={undefined}
+      onFocus={undefined}
+      placeholderTextColor="#020202"
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "OpenSans-Regular",
+          "fontSize": 14,
+          "height": 40,
+          "padding": 10,
+        }
+      }
+      value={undefined}
+    />
+  </View>
+</View>
+`;

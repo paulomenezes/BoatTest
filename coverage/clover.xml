@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1505252171193" clover="3.2.0">
+  <project timestamp="1505252171193" name="All files">
+    <metrics statements="29" coveredstatements="29" conditionals="26" coveredconditionals="26" methods="13" coveredmethods="11" elements="68" coveredelements="66" complexity="0" loc="29" ncloc="29" packages="3" files="10" classes="10">
+      <package name="BoatTest">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <file name="index.android.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/index.android.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+        </file>
+        <file name="index.ios.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/index.ios.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="BoatTest.src">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <file name="App.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/src/App.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+        </file>
+        <file name="App.styles.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/src/App.styles.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="1" type="stmt"/>
+        </file>
+        <file name="configureStore.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/src/configureStore.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="4" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="BoatTest.src.components">
+        <metrics statements="21" coveredstatements="21" conditionals="26" coveredconditionals="26" methods="8" coveredmethods="8"/>
+        <file name="Form.styles.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/src/components/Form.styles.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="1" type="stmt"/>
+        </file>
+        <file name="TextEdit.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/src/components/TextEdit.js">
+          <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="4" type="stmt"/>
+          <line num="9" count="4" type="cond" truecount="4" falsecount="0"/>
+          <line num="13" count="4" type="stmt"/>
+        </file>
+        <file name="TextEdit.styles.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/src/components/TextEdit.styles.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="2" type="stmt"/>
+        </file>
+        <file name="TextEditIcon.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/src/components/TextEditIcon.js">
+          <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="8" count="4" type="stmt"/>
+          <line num="11" count="4" type="cond" truecount="4" falsecount="0"/>
+          <line num="15" count="4" type="stmt"/>
+        </file>
+        <file name="form.js" path="/Users/paulomenezes/Documents/repositories/BoatTest/src/components/form.js">
+          <metrics statements="11" coveredstatements="11" conditionals="14" coveredconditionals="14" methods="6" coveredmethods="6"/>
+          <line num="9" count="9" type="cond" truecount="2" falsecount="0"/>
+          <line num="10" count="8" type="stmt"/>
+          <line num="11" count="6" type="cond" truecount="4" falsecount="0"/>
+          <line num="12" count="1" type="stmt"/>
+          <line num="13" count="2" type="cond" truecount="4" falsecount="0"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="15" count="2" type="cond" truecount="4" falsecount="0"/>
+          <line num="16" count="1" type="stmt"/>
+          <line num="17" count="1" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="20" count="1" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>

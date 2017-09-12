@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "marginHorizontal": 10,
+      "marginTop": 20,
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    disabled={false}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "fontFamily": "OpenSans-Regular",
+        "fontSize": 14,
+        "marginTop": 10,
+        "textAlign": "center",
+      }
+    }
+  >
+    Log-in now to view your upcoming and past flights
+  </Text>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginTop": 10,
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Object {
+          "height": 40,
+          "width": 40,
+        }
+      }
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "fontFamily": "OpenSans-Bold",
+          "fontSize": 16,
+          "marginTop": 5,
+          "textAlign": "center",
+        }
+      }
+    >
+      Cut the queue. Check in now
+    </Text>
+    <Image
+      source={1}
+      style={
+        Object {
+          "height": 40,
+          "width": 40,
+        }
+      }
+    />
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    disabled={false}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "fontFamily": "OpenSans-Regular",
+        "fontSize": 14,
+        "marginBottom": 10,
+        "marginTop": 10,
+      }
+    }
+  >
+    Check in online between 72 hours and 1 hour before departude. Head to the airport and get outta here. It's that simple!
+  </Text>
+  <Form />
+</View>
+`;
